@@ -12,8 +12,8 @@ Most of my game development work has been in Unity3D, though some of my early pr
 
 Cube-drop is an mobile game I created for iOS and Android. 
 
-App Store: https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1208226854&mt=8
-Play Store: https://play.google.com/store/apps/details?id=com.danGoyette.cubeDrop
+ * App Store: https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1208226854&mt=8
+ * Play Store: https://play.google.com/store/apps/details?id=com.danGoyette.cubeDrop
 
 ### Gravia
 
