@@ -1,10 +1,11 @@
 # Dan Goyette
 
 ## Work Experience
-Resumes: 
+### Resumes: 
  * [Full Stack Engineer](https://github.com/dan-goyette/General/blob/master/Resume%20-%20Dan%20Goyette%20-%20Full%20Stack%20Engineer.pdf)
  * [Agile Project Manager](https://github.com/dan-goyette/General/blob/master/Resume%20-%20Dan%20Goyette%20-%20Project%20Manager.pdf)
-Portfolio: 
+
+### Portfolio: 
  * [GitHub](https://github.com/dan-goyette/General/blob/master/User%20Interface%20Portfolio.pdf)
 
 ## Game Dev Experience
